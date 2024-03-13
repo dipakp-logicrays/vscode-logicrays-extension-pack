@@ -19,7 +19,7 @@
   "publisher": "dipak",
   "repository": {
       "type": "git",
-      "url": "https://dipakp0822@dev.azure.com/dipakp0822/Logicrays%20Extension%20Pack/_git/Logicrays%20Extension%20Pack"
+      "url": "https://github.com/dipakp-logicrays/vscode-logicrays-extension-pack.git"
   },
   "extensionPack": [ 
     "aaron-bond.better-comments", 
