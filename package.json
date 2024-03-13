@@ -2,7 +2,7 @@
   "name": "logicrays-extension-pack-for-magento",
   "displayName": "Logicrays Extension Pack For Magento",
   "description": "Logicrays Extension Pack For Magento",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "engines": {
     "vscode": "^1.80.0"
   },
@@ -40,8 +40,6 @@
     "fallenmax.mithril-emmet", 
     "formulahendry.auto-close-tag", 
     "formulahendry.auto-rename-tag", 
-    "github.copilot", 
-    "github.copilot-chat", 
     "graphql.vscode-graphql-syntax", 
     "hakcorp.php-awesome-snippets", 
     "hridoy.jquery-snippets", 
