@@ -2,10 +2,11 @@
   "name": "logicrays-extension-pack-for-magento",
   "displayName": "Logicrays Extension Pack For Magento",
   "description": "Logicrays Extension Pack For Magento",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.80.0"
   },
+  "icon": "images/logo.jpeg",
   "categories": [
     "Extension Packs"
   ],
