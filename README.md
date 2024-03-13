@@ -2,7 +2,16 @@
 
 - It includes all extension related to PHP, Magento, JQuery, HTMl & CSS, AI, Comments, Remote SSH and many more.
 
+## Install Magento Coding Standard 
+- Please follow this link for install magento coding standad. [Click Here](https://github.com/magento/magento-coding-standard)
 
+- You can read my other document for vscode configuration. [Click Here](https://dipakp-docs.readthedocs.io/technical-guides/vscode/index.html)
+
+# VS Code settings.json
+
+Here is my vs code `settings.json`, you can [check here](https://gist.github.com/dipakp-logicrays/07f0b3b936e25dbe60067f2500b9ac47)
+
+# List VS Code extensions
 
 ## Apache Conf
 
