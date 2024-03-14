@@ -1,2 +1,43 @@
+# Dir
 node_modules
+
+# Files
+*.orig
+*.php
 *.vsix
+
+.vscode/**
+.vscode-test/**
+vsc-extension-quickstart.md
+
+# OS generated files #
+######################
+# General
+.DS_Store
+.DS_Store?
+.AppleDouble
+.LSOverride
+ehthumbs.db
+Thumbs.db
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+
+# Packages #
+############
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
