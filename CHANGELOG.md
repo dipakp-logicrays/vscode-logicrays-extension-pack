@@ -1,9 +1,31 @@
 # Change Log
 
-All notable changes to the "extension-pack" extension pack will be documented in this file.
+All notable changes to the "logicrays-extension-pack-for-magento" extension pack will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+### 0.0.7 (2024-03-14)
 
-## [Unreleased]
+- Update CHANGELOG.md & README.md files
+
+### 0.0.6 (2024-03-13)
+
+- Remove GitHub copilot dependency
+
+### 0.0.5 (2024-03-13)
+
+- Remove unnecessary extensions from this pack
+
+### 0.0.4 (2024-03-13)
+
+- Add Logo to Extension pack
+
+### 0.0.3 (2024-03-13)
+
+- Add README.md file
+
+### 0.0.2 (2024-03-13)
+
+- Added to  GitHub Repository
+
+### 0.0.1 (2024-03-13)
 
 - Initial release

@@ -1,8 +1,8 @@
-# Extension Pack for Visual Studio Code
+# Extension Pack for Magento
 
-- It includes all extension related to PHP, Magento, JQuery, HTMl & CSS, AI, Comments, Remote SSH and many more.
+- It includes all extensions related to PHP, Magento, JQuery, HTMl & CSS, AI, Comments, Remote SSH and Apache & NGINX configuration, Docker, and XML.
 
-## Install Magento Coding Standard 
+## Install Magento Coding Standard
 - Please follow this link for install magento coding standad. [Click Here](https://github.com/magento/magento-coding-standard)
 
 - You can read my other document for vscode configuration. [Click Here](https://dipakp-docs.readthedocs.io/technical-guides/vscode/index.html)
@@ -15,178 +15,182 @@ Here is my vs code `settings.json`, you can [check here](https://gist.github.com
 
 ## Apache Conf
 
-![alt text](images/apache-conf.png)
+![Apache Conf](images/apache-conf.png)
 
 ## Auto Close Tag
 
-![alt text](images/auto-close-tag.png)
+![Auto Close Tag](images/auto-close-tag.png)
 
 ## Auto Rename Tag
 
-![alt text](images/auto-rename-tag.png)
+![Auto Rename Tag](images/auto-rename-tag.png)
 
 ## AutoMageDev
 
-![alt text](images/auto-mage-dev.png)
+![AutoMageDev](images/auto-mage-dev.png)
 
 ## Better Comments
 
-![alt text](images/better-comments.png)
+![Better Comments](images/better-comments.png)
 
 ## Better PHPUnit
 
-![alt text](images/Better-PHPUnit.png)
+![Better PHPUnit](images/Better-PHPUnit.png)
 
 ## ChatGPT GPT-4 - Bito AI Code Assistant
 
-![alt text](images/bito-chatgpt-4.png)
+![ChatGPT GPT-4 - Bito AI Code Assistant](images/bito-chatgpt-4.png)
 
 ## Color Picker
 
-![alt text](images/color-picker.png)
+![Color Picker](images/color-picker.png)
+
+## Composer
+
+![Composer](images/composer.png)
 
 ## Docker
 
-![alt text](images/docker.png)
+![Docker](images/docker.png)
 
 ## Dev Containers
 
-![alt text](images/dev-containers.png)
+![Dev Containers](images/dev-containers.png)
 
 ## Email
 
-![alt text](images/email.png)
+![Email](images/email.png)
 
 ## GitLens — Git supercharged
 
-![alt text](images/git-lense.png)
+![GitLens — Git supercharged](images/git-lense.png)
 
 ## GraphQL: Syntax Highlighting
 
-![alt text](images/graphql.png)
+![GraphQL: Syntax Highlighting](images/graphql.png)
 
 ## IntelliPHP - AI Autocomplete for PHP
 
-![alt text](images/intelliphp.png)
+![IntelliPHP - AI Autocomplete for PHP](images/intelliphp.png)
 
 ## jQuery Code Snippets
 
-![alt text](images/jquery-code-snippets.png)
+![jQuery Code Snippets](images/jquery-code-snippets.png)
 
 ## jQuery Snippets
 
-![alt text](images/jquery-snippet.png)
+![jQuery Snippets](images/jquery-snippet.png)
 
 ## Large file support for extensions
 
-![alt text](images/large-file-support.png)
+![Large file support for extensions](images/large-file-support.png)
 
 ## LiveReload
 
-![alt text](images/livereload.png)
+![LiveReload](images/livereload.png)
 
 ## Magento 2 Snippets
 
-![alt text](images/magento-snippets.png)
+![Magento 2 Snippets](images/magento-snippets.png)
 
 ## Magento DevSearch
 
-![alt text](images/m2-devsearch.png)
+![Magento DevSearch](images/m2-devsearch.png)
 
 ## MagentoWizard
 
-![alt text](images/magentowizard.png)
+![MagentoWizard](images/magentowizard.png)
 
 ## Material Icon Theme
 
-![alt text](images/material-icon-theme.png)
+![Material Icon Theme](images/material-icon-theme.png)
 
 ## Material Theme
 
-![alt text](images/material-theme.png)
+![Material Theme](images/material-theme.png)
 
 ## Material Theme Icons
 
-![alt text](images/material-theme-icons.png)
+![Material Theme Icons](images/material-theme-icons.png)
 
 ## Mintlify Doc Writer for Python, JavaScript, TypeScript, C++, PHP, Java, C#, Ruby & more
 
-![alt text](images/minify-doc.png)
+![Mintlify Doc Writer](images/minify-doc.png)
 
 ## Mithril Emmet
 
-![alt text](images/mithiril.png)
+![Mithril Emmet](images/mithiril.png)
 
 ## NGINX Configuration
 
-![alt text](images/nginx-conf.png)
+![NGINX Configuration](images/nginx-conf.png)
 
 ## NGINX Configuration Language Support
 
-![alt text](images/nginx-conf-lang-support.png)
+![NGINX Configuration Language Support](images/nginx-conf-lang-support.png)
 
 ## nginx-formatter
 
-![alt text](images/nginx-formatter.png)
+![nginx-formatter](images/nginx-formatter.png)
 
 ## PHP Awesome Snippets
 
-![alt text](images/php-aw-sn.png)
+![PHP Awesome Snippets](images/php-aw-sn.png)
 
 ## PHP Constructor
 
-![alt text](images/php-const.png)
+![PHP Constructor](images/php-const.png)
 
 ## PHP Debug
 
-![alt text](images/php-debug.png)
+![PHP Debug](images/php-debug.png)
 
 ## PHP DocBlocker
 
-![alt text](images/php-docblock.png)
+![PHP DocBlocker](images/php-docblock.png)
 
 ## PHP Getters & Setters
 
-![alt text](images/php-gt-st.png)
+![PHP Getters & Setters](images/php-gt-st.png)
 
 ## PHP Intelephense
 
-![alt text](images/php-intelephense.png)
+![PHP Intelephense](images/php-intelephense.png)
 
 ## PHP Support Utils
 
-![alt text](images/php-s-utility.png)
+![PHP Support Utils](images/php-s-utility.png)
 
 ## PHPUnit Snippets
 
-![alt text](images/php-unit-sn.png)
+![PHPUnit Snippets](images/php-unit-sn.png)
 
 ## Regex Previewer
 
-![alt text](images/regex-prev.png)
+![Regex Previewer](images/regex-prev.png)
 
 ## Remote - SSH
 
-![alt text](images/remote-ssh.png)
+![Remote - SSH](images/remote-ssh.png)
 
 ## Remote - SSH: Editing Configuration Files
 
-![alt text](images/remote-ssh-edit.png)
+![Remote - SSH: Editing Configuration Files](images/remote-ssh-edit.png)
 
-## Remote Explorer 
+## Remote Explorer
 
-![alt text](images/remote-explorer.png)
+![Remote Explorer](images/remote-explorer.png)
 
 ## Tabnine AI
 
-![alt text](images/tabnine.png)
+![Tabnine AI](images/tabnine.png)
 
 ## Trailing Spaces
 
-![alt text](images/trailing-spaces.png)
+![Trailing Spaces](images/trailing-spaces.png)
 
 ## XML Tools
 
-![alt text](images/xml-tools.png)
+![XML Tools](images/xml-tools.png)
 
 **Enjoy!**
