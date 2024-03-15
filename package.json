@@ -2,7 +2,7 @@
   "name": "logicrays-extension-pack-for-magento",
   "displayName": "Logicrays Extension Pack For Magento",
   "description": "Logicrays Extension Pack For Magento",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "engines": {
     "vscode": "^1.80.0"
   },
@@ -45,6 +45,7 @@
     "hridoy.jquery-snippets",
     "ikappas.phpcs",
     "jerrylopez.magento2-snippets",
+    "pbogut.magento2-ls",
     "leighlondon.eml",
     "mbehr1.vsc-lfs",
     "mintlify.document",
@@ -69,6 +70,8 @@
     "william-voyek.vscode-nginx",
     "wmaurer.change-case",
     "xdebug.php-debug",
-    "ziishaned.livereload"
+    "ziishaned.livereload",
+    "yzhang.markdown-all-in-one",
+    "shd101wyy.markdown-preview-enhanced"
   ]
 }

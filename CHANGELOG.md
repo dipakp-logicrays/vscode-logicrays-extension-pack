@@ -2,6 +2,13 @@
 
 All notable changes to the "logicrays-extension-pack-for-magento" extension pack will be documented in this file.
 
+### 0.0.8 (2024-03-15)
+
+- Added new extensions
+  - Magento2 Language Server
+  - Magento2 Language Server
+  - Markdown Preview Enhanced
+
 ### 0.0.7 (2024-03-14)
 
 - Update CHANGELOG.md & README.md files

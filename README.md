@@ -101,6 +101,18 @@ Here is my vs code `settings.json`, you can [check here](https://gist.github.com
 
 ![MagentoWizard](images/magentowizard.png)
 
+## Magento2 Language Server
+
+![Magento2 Language Server](images/magento2-language-server.png)
+
+## Markdown All in One
+
+![Markdown All in One](images/markdown-all-in-one.png)
+
+## Markdown Preview Enhanced
+
+![Markdown Preview Enhanced](images/markdown-preview-enhanced.png)
+
 ## Material Icon Theme
 
 ![Material Icon Theme](images/material-icon-theme.png)
