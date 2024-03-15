@@ -2,6 +2,9 @@
 
 All notable changes to the "logicrays-extension-pack-for-magento" extension pack will be documented in this file.
 
+### 0.0.9 (2024-03-15)
+- Remove unnecessary extension
+
 ### 0.0.8 (2024-03-15)
 
 - Added new extensions

@@ -13,81 +13,9 @@ Here is my vs code `settings.json`, you can [check here](https://gist.github.com
 
 # List VS Code extensions
 
-## Apache Conf
-
-![Apache Conf](images/apache-conf.png)
-
-## Auto Close Tag
-
-![Auto Close Tag](images/auto-close-tag.png)
-
-## Auto Rename Tag
-
-![Auto Rename Tag](images/auto-rename-tag.png)
-
 ## AutoMageDev
 
 ![AutoMageDev](images/auto-mage-dev.png)
-
-## Better Comments
-
-![Better Comments](images/better-comments.png)
-
-## Better PHPUnit
-
-![Better PHPUnit](images/Better-PHPUnit.png)
-
-## ChatGPT GPT-4 - Bito AI Code Assistant
-
-![ChatGPT GPT-4 - Bito AI Code Assistant](images/bito-chatgpt-4.png)
-
-## Color Picker
-
-![Color Picker](images/color-picker.png)
-
-## Composer
-
-![Composer](images/composer.png)
-
-## Docker
-
-![Docker](images/docker.png)
-
-## Dev Containers
-
-![Dev Containers](images/dev-containers.png)
-
-## Email
-
-![Email](images/email.png)
-
-## GitLens — Git supercharged
-
-![GitLens — Git supercharged](images/git-lense.png)
-
-## GraphQL: Syntax Highlighting
-
-![GraphQL: Syntax Highlighting](images/graphql.png)
-
-## IntelliPHP - AI Autocomplete for PHP
-
-![IntelliPHP - AI Autocomplete for PHP](images/intelliphp.png)
-
-## jQuery Code Snippets
-
-![jQuery Code Snippets](images/jquery-code-snippets.png)
-
-## jQuery Snippets
-
-![jQuery Snippets](images/jquery-snippet.png)
-
-## Large file support for extensions
-
-![Large file support for extensions](images/large-file-support.png)
-
-## LiveReload
-
-![LiveReload](images/livereload.png)
 
 ## Magento 2 Snippets
 
@@ -104,46 +32,6 @@ Here is my vs code `settings.json`, you can [check here](https://gist.github.com
 ## Magento2 Language Server
 
 ![Magento2 Language Server](images/magento2-language-server.png)
-
-## Markdown All in One
-
-![Markdown All in One](images/markdown-all-in-one.png)
-
-## Markdown Preview Enhanced
-
-![Markdown Preview Enhanced](images/markdown-preview-enhanced.png)
-
-## Material Icon Theme
-
-![Material Icon Theme](images/material-icon-theme.png)
-
-## Material Theme
-
-![Material Theme](images/material-theme.png)
-
-## Material Theme Icons
-
-![Material Theme Icons](images/material-theme-icons.png)
-
-## Mintlify Doc Writer for Python, JavaScript, TypeScript, C++, PHP, Java, C#, Ruby & more
-
-![Mintlify Doc Writer](images/minify-doc.png)
-
-## Mithril Emmet
-
-![Mithril Emmet](images/mithiril.png)
-
-## NGINX Configuration
-
-![NGINX Configuration](images/nginx-conf.png)
-
-## NGINX Configuration Language Support
-
-![NGINX Configuration Language Support](images/nginx-conf-lang-support.png)
-
-## nginx-formatter
-
-![nginx-formatter](images/nginx-formatter.png)
 
 ## PHP Awesome Snippets
 
@@ -177,6 +65,101 @@ Here is my vs code `settings.json`, you can [check here](https://gist.github.com
 
 ![PHPUnit Snippets](images/php-unit-sn.png)
 
+## Auto Close Tag
+
+![Auto Close Tag](images/auto-close-tag.png)
+
+## Auto Rename Tag
+
+![Auto Rename Tag](images/auto-rename-tag.png)
+
+
+## Better Comments
+
+![Better Comments](images/better-comments.png)
+
+## Better PHPUnit
+
+![Better PHPUnit](images/Better-PHPUnit.png)
+
+
+## Color Picker
+
+![Color Picker](images/color-picker.png)
+
+## Composer
+
+![Composer](images/composer.png)
+
+## Docker
+
+![Docker](images/docker.png)
+
+## Dev Containers
+
+![Dev Containers](images/dev-containers.png)
+
+## GraphQL: Syntax Highlighting
+
+![GraphQL: Syntax Highlighting](images/graphql.png)
+
+## IntelliPHP - AI Autocomplete for PHP
+
+![IntelliPHP - AI Autocomplete for PHP](images/intelliphp.png)
+
+## jQuery Code Snippets
+
+![jQuery Code Snippets](images/jquery-code-snippets.png)
+
+## jQuery Snippets
+
+![jQuery Snippets](images/jquery-snippet.png)
+
+## Large file support for extensions
+
+![Large file support for extensions](images/large-file-support.png)
+
+## LiveReload
+
+![LiveReload](images/livereload.png)
+
+## Email
+
+![Email](images/email.png)
+
+## GitLens — Git supercharged
+
+![GitLens — Git supercharged](images/git-lense.png)
+
+## Markdown All in One
+
+![Markdown All in One](images/markdown-all-in-one.png)
+
+## Markdown Preview Enhanced
+
+![Markdown Preview Enhanced](images/markdown-preview-enhanced.png)
+
+## Material Icon Theme
+
+![Material Icon Theme](images/material-icon-theme.png)
+
+
+## Mintlify Doc Writer for Python, JavaScript, TypeScript, C++, PHP, Java, C#, Ruby & more
+
+![Mintlify Doc Writer](images/minify-doc.png)
+
+## Mithril Emmet
+
+![Mithril Emmet](images/mithiril.png)
+
+## Apache Conf
+
+![Apache Conf](images/apache-conf.png)
+
+## NGINX Configuration
+
+![NGINX Configuration](images/nginx-conf.png)
+
 ## Regex Previewer
 
 ![Regex Previewer](images/regex-prev.png)
@@ -192,6 +175,10 @@ Here is my vs code `settings.json`, you can [check here](https://gist.github.com
 ## Remote Explorer
 
 ![Remote Explorer](images/remote-explorer.png)
+
+## ChatGPT GPT-4 - Bito AI Code Assistant
+
+![ChatGPT GPT-4 - Bito AI Code Assistant](images/bito-chatgpt-4.png)
 
 ## Tabnine AI
 
