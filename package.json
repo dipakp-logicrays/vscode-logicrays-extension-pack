@@ -2,7 +2,7 @@
   "name": "logicrays-extension-pack-for-magento",
   "displayName": "Logicrays Extension Pack For Magento",
   "description": "Logicrays Extension Pack For Magento",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "engines": {
     "vscode": "^1.80.0"
   },
@@ -41,6 +41,7 @@
     "phproberto.vscode-php-getters-setters",
     "bmewburn.vscode-intelephense-client",
     "open-southeners.php-support-utils",
+    "MehediDracula.php-namespace-resolver",
     "onecentlin.phpunit-snippets",
     "calebporzio.better-phpunit",
     "devsense.composer-php-vscode",

@@ -2,6 +2,9 @@
 
 All notable changes to the "logicrays-extension-pack-for-magento" extension pack will be documented in this file.
 
+### 0.0.10 (2024-03-20)
+- Add `PHP Namespace Resolver` extension
+
 ### 0.0.9 (2024-03-15)
 - Remove unnecessary extension
 

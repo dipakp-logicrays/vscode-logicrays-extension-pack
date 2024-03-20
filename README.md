@@ -57,6 +57,10 @@ Here is my vs code `settings.json`, you can [check here](https://gist.github.com
 
 ![PHP Intelephense](images/php-intelephense.png)
 
+## PHP Namespace Resolver
+
+![PHP Namespace Resolver](images/php-namespace-resolver.png)
+
 ## PHP Support Utils
 
 ![PHP Support Utils](images/php-s-utility.png)
